@@ -24,4 +24,4 @@ var title = process.env.NEXT_PUBLIC_TITLE;
 - you want to prevent this secret title to be shown 
 
 # BCIT data from Digital Design and Development 
-[Digital Design and Development Diploma Course]
+[Digital Design and Development Diploma Course] `https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/#courses`
